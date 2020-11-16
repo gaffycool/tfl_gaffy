@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TFL</string>
+    <string name="hint">Enter road name here…</string>
+    <string name="road">Road: </string>
+    <string name="severity">Severity:</string>
+    <string name="severity_description">Severity Description: </string>
+    <string name="check_status">Check Status</string>
+    <string name="api_exception">The following road id is not recognised: </string>
+    <string name="key_error">Incorrect app id or app key</string>
+</resources>
